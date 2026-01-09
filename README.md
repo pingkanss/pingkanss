@@ -71,7 +71,7 @@ Enhanced the existing MAPS system by adding dashboard features to visualize equi
 
 **Tools:** Tableau / Power BI
 
-🔗 [View Project]()
+🔗 [View Project](https://github.com/pingkanss/MAPSV2)
 
 ---
 
@@ -81,7 +81,7 @@ Forecasted flight departure delays using a Backpropagation Neural Network by ana
 
 **Tools:** Python, Pandas, Scikit-learn, Seaborn, NumPy
 
-🔗 [View Project]()
+🔗 [View Project](https://github.com/pingkanss/ForecastingFlightDelay)
 
 ---
 
