@@ -69,7 +69,7 @@ Created an application that detects nail diseases from nail images using machine
 **Description:**  
 Enhanced the existing MAPS system by adding dashboard features to visualize equipment maintenance performance and readiness data.
 
-**Tools:** Tableau / Power BI
+**Tools:** HTML, CSS, PHP, JavaScript, Bootstrap, React JS
 
 🔗 [View Project](https://github.com/pingkanss/MAPSV2)
 
