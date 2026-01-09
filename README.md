@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pingkan Stephanie Repang
 
-📊 **Data Analyst | Data Enthusiast | Problem Solver**
+📊 **Data Analyst | Data Enthusiast | Web Developer**
 
 I am a Data Analyst with a strong interest in transforming raw data into meaningful insights.  
 Experienced in data cleaning, analysis, and visualization to support data-driven decision making.
@@ -9,13 +9,26 @@ Experienced in data cleaning, analysis, and visualization to support data-driven
 
 ## 🧠 About Me
 - 🎓 Graduate in **Information Systems**
-- 📈 Passionate about **data analysis, visualization, and business insights**
+- 📈 Passionate about **data analysis, visualization, and website development**
 - 🛠️ Experienced in handling structured datasets and exploratory data analysis
 - 📚 Continuously learning data tools and analytics techniques
 
 ---
 
 ## 💻 Tech Stack
+
+### 🧑‍💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### 📊 Data Analysis & Visualization
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
