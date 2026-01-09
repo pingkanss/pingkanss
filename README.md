@@ -40,43 +40,36 @@ Experienced in data cleaning, analysis, and visualization to support data-driven
 
 ## 📂 Featured Projects
 
-### 📌 Sales Data Analysis
-**Description:**  
-Analyzed sales data to identify trends, best-selling products, and monthly performance.
+### 📌 KukuKu - Nail Diseases Detection App
+**Description:**
+Created an application that detects nail diseases from nail images using machine learning, helping users recognize potential nail health issues early.
 
 **Tools:** Python, Pandas, Matplotlib  
-🔗 [View Project](https://github.com/username/project-name)
+🔗 [View Project]()
 
 ---
 
-### 📌 Customer Segmentation
+### 📌 Forecasting Flight Departure Delays with Backpropagation Neural Networks
 **Description:**  
-Performed clustering analysis to group customers based on behavior and demographics.
+Forecasted flight departure delays using a Backpropagation Neural Network by analyzing historical flight and operational data to identify delay patterns and predict departure delay levels.
 
-**Tools:** Python, Scikit-learn, Seaborn  
-🔗 [View Project](https://github.com/username/project-name)
+**Tools:** Python, Pandas, Scikit-learn, Seaborn, NumPy
+🔗 [View Project]()
 
 ---
 
-### 📌 Dashboard Visualization
+### 📌 Maintenance and Prevention System (MAPS) Dashboard – PT Angkasa Pura I
 **Description:**  
-Created interactive dashboards to visualize KPIs and business metrics.
+Enhanced the existing MAPS system by adding dashboard features to visualize equipment maintenance performance and readiness data.
 
 **Tools:** Tableau / Power BI  
 🔗 [View Project](https://github.com/username/project-name)
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark)
-
----
-
 ## 📫 Contact Me
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile
-- 📧 Email: your.email@example.com
+- 💼 LinkedIn: https://www.linkedin.com/in/pingkan-stephanie/
+- 📧 Email: pingkanstephanies@gmail.com
 - 🌐 Portfolio: https://yourportfolio.com
 
 ---
