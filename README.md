@@ -2,8 +2,7 @@
 
 📊 **Data Analyst | Data Enthusiast | Web Developer**
 
-I am a Data Analyst with a strong interest in transforming raw data into meaningful insights.  
-Experienced in data cleaning, analysis, and visualization to support data-driven decision making.
+A highly motivated and adaptable individual with strong communication skills and a passion for technology and data. Experienced in web development using HTML, CSS, JavaScript, PHP, and MySQhttps://github.com/pingkanss/pingkanss/blob/main/README.mdL, with a certification in Database Administration. Skilled in data analysis and machine learning, including data preprocessing, EDA, and predictive modeling using Python (Pandas, NumPy, Scikit-Learn). Able to deliver end-to-end solutions by combining programming and analytical expertise.
 
 ---
 
@@ -46,6 +45,7 @@ Experienced in data cleaning, analysis, and visualization to support data-driven
 
 ### 🧰 Tools
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
