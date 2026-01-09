@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pingkan Stephanie Repang
+# 👋 Hi, I'm Pingkan Stephanie Sepang
 
 📊 **Data Analyst | Data Enthusiast | Web Developer**
 
@@ -59,7 +59,18 @@ Experienced in data cleaning, analysis, and visualization to support data-driven
 **Description:**
 Created an application that detects nail diseases from nail images using machine learning, helping users recognize potential nail health issues early.
 
-**Tools:** Python, Pandas, Matplotlib  
+**Tools:** Python, Pandas, Matplotlib, Google Colab
+
+🔗 [View Project](https://github.com/pingkanss/KukuKuApp)
+
+---
+
+### 📌 Maintenance and Prevention System (MAPS) Dashboard – PT Angkasa Pura I
+**Description:**  
+Enhanced the existing MAPS system by adding dashboard features to visualize equipment maintenance performance and readiness data.
+
+**Tools:** Tableau / Power BI
+
 🔗 [View Project]()
 
 ---
@@ -69,15 +80,17 @@ Created an application that detects nail diseases from nail images using machine
 Forecasted flight departure delays using a Backpropagation Neural Network by analyzing historical flight and operational data to identify delay patterns and predict departure delay levels.
 
 **Tools:** Python, Pandas, Scikit-learn, Seaborn, NumPy
+
 🔗 [View Project]()
 
 ---
 
-### 📌 Maintenance and Prevention System (MAPS) Dashboard – PT Angkasa Pura I
+### 📌 Simple Landing Page
 **Description:**  
-Enhanced the existing MAPS system by adding dashboard features to visualize equipment maintenance performance and readiness data.
+ONGOING
 
-**Tools:** Tableau / Power BI  
+**Tools:** HTML, CSS, JavaScript, Tailwind
+
 🔗 [View Project]()
 
 ---
@@ -85,7 +98,7 @@ Enhanced the existing MAPS system by adding dashboard features to visualize equi
 ## 📫 Contact Me
 - 💼 LinkedIn: https://www.linkedin.com/in/pingkan-stephanie/
 - 📧 Email: pingkanstephanies@gmail.com
-- 🌐 Portfolio: https://yourportfolio.com
+- 🌐 Portfolio: ONGOING
 
 ---
 
