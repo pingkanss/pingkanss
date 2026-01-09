@@ -48,6 +48,8 @@ Experienced in data cleaning, analysis, and visualization to support data-driven
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -76,7 +78,7 @@ Forecasted flight departure delays using a Backpropagation Neural Network by ana
 Enhanced the existing MAPS system by adding dashboard features to visualize equipment maintenance performance and readiness data.
 
 **Tools:** Tableau / Power BI  
-🔗 [View Project](https://github.com/username/project-name)
+🔗 [View Project]()
 
 ---
 
