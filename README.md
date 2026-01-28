@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pingkan Stephanie Sepang
 
-📊 **Data Analyst | Data Enthusiast | Web Developer**
+📊 **Data Analyst | Web Developer | Data Enthusiast**
 
 A highly motivated and adaptable individual with strong communication skills and a passion for technology and data. Experienced in web development using HTML, CSS, JavaScript, PHP, and MySQL, with a certification in Database Administration. Skilled in data analysis and machine learning, including data preprocessing, EDA, and predictive modeling using Python (Pandas, NumPy, Scikit-Learn). Able to deliver end-to-end solutions by combining programming and analytical expertise.
 
